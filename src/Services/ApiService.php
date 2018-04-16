@@ -2,9 +2,9 @@
 namespace SeniorProgramming\PostisGate\Services;
 
 use SeniorProgramming\PostisGate\Core\Base;
-use SeniorProgramming\PostisGate\Exceptions\FanCourierInstanceException;
-use SeniorProgramming\PostisGate\Exceptions\FanCourierInvalidParamException;
-use SeniorProgramming\PostisGate\Exceptions\FanCourierUnknownModelException;
+use SeniorProgramming\PostisGate\Exceptions\PostisGateInstanceException;
+use SeniorProgramming\PostisGate\Exceptions\PostisGateInvalidParamException;
+use SeniorProgramming\PostisGate\Exceptions\PostisGateUnknownModelException;
 
 class ApiService extends Base {
 
