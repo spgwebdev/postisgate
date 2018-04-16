@@ -97,7 +97,6 @@ abstract class Base implements BaseInterface {
         }
 
         if ($curl->error) {
-            dd($data, json_encode($data), $curl->response);
             throw new PostisGateInstanceException('Invalid curl error. Code: '. $curl->errorCode . '. Message: '. $curl->errorMessage.' '.$curl->response->message);
         } else {
             if($type == 'FILE'){
