@@ -109,7 +109,7 @@ final class Versions
   'sebastian/version' => '2.0.1@99732be0ddb3361e16ad77b68ba41efc8e979019',
   'symfony/yaml' => '3.4.x-dev@212a27b731e5bfb735679d1ffaac82bd6a1dc996',
   'webmozart/assert' => '1.4.0@83e253c8e0be5b0257b881e1827274667c5c17a9',
-  'seniorprogramming/postisgate' => 'dev-laravel57@bd057ce307504d433b78207488a3e664362e45b5',
+  'seniorprogramming/postisgate' => 'dev-laravel57@62d7cab06616511f3d4f5ee47a83a4848262ea7a',
 );
 
     private function __construct()
