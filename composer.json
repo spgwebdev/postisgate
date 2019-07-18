@@ -1,5 +1,5 @@
 {
-    "name": "seniorprogramming/postisgate",
+    "name": "seniorprogramming/postisgate_secom",
     "description": "Postis API Client",
     "require": {
         "php": ">=7.1.3",
