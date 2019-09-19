@@ -2,11 +2,12 @@
 
 All notable changes of the PHPUnit 7.5 release series are documented in this file using the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## [7.5.16] - 2019-MM-DD
+## [7.5.16] - 2019-09-14
 
 ### Fixed
 
 * Fixed [#3801](https://github.com/sebastianbergmann/phpunit/issues/3801): Class constant as default parameter is undefined
+* Fixed [#3834](https://github.com/sebastianbergmann/phpunit/issues/3834): Trailing slash breaks code coverage on Windows
 
 ## [7.5.15] - 2019-08-21
 
